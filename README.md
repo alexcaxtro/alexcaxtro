@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexcaxtro
 - 👀 I’m interested in AWS, sysadmin, cloud computing
-- 🌱 I’m currently learning Dart and Flutter
+- 🌱 I’m currently on practice on php 
 - 💞️ I’m looking to collaborate with my teammates 
 - 📫 How to reach me alexcaxtro@gmail.com
