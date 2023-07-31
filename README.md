@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @alexcaxtro
+- 👋 Hi, I’m @alexcaxtro,
+- 💻 Right Now I'm developing on CodeIgniter 3 (PHP)
 - 👀 I’m interested in AWS, sysadmin, cloud computing
 - 🌱 I’m currently on practice on php 
 - 💞️ I’m looking to collaborate with my teammates 
