@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexcaxtro,
 - 💻 Right Now I'm developing on CodeIgniter 3 (PHP)
 - 👀 I’m interested in AWS, sysadmin, cloud computing
-- 🌱 I’m currently on practice on php 
+- 🌱 I am currently working at Curicó Hospital as an Engineer 
 - 💞️ I’m looking to collaborate with my teammates 
 - 📫 How to reach me alexcaxtro@gmail.com
